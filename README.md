@@ -52,13 +52,16 @@ Else: Message Box = "Marry after "+(21-age).ToString+" Years"
 
 <img width="637" height="820" alt="image" src="https://github.com/user-attachments/assets/f65bbd7e-be5d-4590-b8f9-ac9121736ae7" />
 
+
 <img width="351" height="777" alt="image" src="https://github.com/user-attachments/assets/885742f6-4bb5-48a1-b297-2042ab078674" />
+
 
 <img width="487" height="555" alt="image" src="https://github.com/user-attachments/assets/3f6fd628-55d4-4b7a-9339-5343a8e4f560" />
 
 ## Output:
 
 <img width="500" height="815" alt="image" src="https://github.com/user-attachments/assets/e071659c-0884-47e5-947e-3d961421e503" />
+
 
 <img width="472" height="832" alt="image" src="https://github.com/user-attachments/assets/75d4cbb8-d3d8-431c-b54b-a79d82b5df92" />
 
